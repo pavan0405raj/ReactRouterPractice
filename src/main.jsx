@@ -33,6 +33,10 @@ const router = createBrowserRouter([
         path: "user/:id", // Define a dynamic route
         element: <User/>, // Render the UserProfile component
       },
+      {
+        path: "/user", // Define a dynamic route
+        element: <User/>, // Render the UserProfile component
+      },
       
     ],
   },

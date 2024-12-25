@@ -10,7 +10,7 @@ import Layout from "./Layout.jsx";
 import Home from "./Componets/Home.jsx";
 import About from "./Componets/About.jsx";
 import Contact from "./Componets/Contact.jsx";
-import User from './Components/user.jsx';
+
 
 
 const router = createBrowserRouter([
